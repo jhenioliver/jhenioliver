@@ -27,5 +27,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9f4bff)](https://www.linkedin.com/in/jheniffer-de-oliveira-4b705128b/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9f4bff)](mailto:jhenifferoliveirafoschera@gmail.com)
 [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO&logoColor=9f4bff)](https://web.dio.me/users/jhenifferoliveirafoschera)
-
-![snake gif](https://github.com/jhenioliver/jhenioliver/blob/output/github-contribution-grid-snake.svg)
