@@ -17,7 +17,7 @@
 ##
 
 ### 📊GitHub Stats
-![GitHub Stats](https://github-readme-jhenioliver-stats.vercel.app/api?username=jhenioliver&count_private=true&hide_title=true&show_icons=true&hide=stars&rank_icon=github&theme=midnight-purple)
+![GitHub Stats](https://github-readme-jhenioliver-stats.vercel.app/api?username=jhenioliver&count_private=true&hide_title=true&show_icons=true&hide=stars&rank_icon=github&include_all_commits=true&theme=midnight-purple)
 
 ##
 
