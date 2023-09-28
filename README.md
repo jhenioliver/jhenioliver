@@ -3,7 +3,7 @@
 - Minhas **experiências** envolveram Banco de Dados SQL (MySQL e OracleDatabase) e conexões com PHP! Atualmente estou estudando no Bootcamp Ciência de Dados com Python da [DIO.](https://www.dio.me)
 
 ### 📖Conhecimento
-[![Top Langs](https://github-readme-jhenioliver-stats.vercel.app/api/top-langs/?username=jhenioliver&count_private=true&hide=hack&hide=CSS&bg_color=000&border_color=FFF&title_color=9f4bff&text_color=FFF&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-jhenioliver-stats.vercel.app/api/top-langs/?username=jhenioliver&count_private=true&hide=hack&bg_color=000&border_color=FFF&title_color=9f4bff&text_color=FFF&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
