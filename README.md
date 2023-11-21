@@ -1,6 +1,6 @@
 ## 🤍Oi! Eu sou a Jheniffer, Desenvolvedora Júnior.
 - Tenho 18 anos e estou estudando para área de **Back End e Data.**
-- Minhas **experiências** envolveram Banco de Dados SQL (MySQL e OracleDatabase) e conexões com PHP! Atualmente estou estudando no Bootcamp Ciência de Dados com Python da [DIO.](https://www.dio.me)
+- Minhas **experiências** envolveram Banco de Dados SQL (MySQL e OracleDatabase) e conexões com PHP!
 
 ### 📖Conhecimento
 [![Top Langs](https://github-readme-jhenioliver-stats.vercel.app/api/top-langs/?username=jhenioliver&count_private=true&hide=hack,css,jupyter%20notebook&bg_color=000&border_color=FFF&title_color=9f4bff&text_color=FFF&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
