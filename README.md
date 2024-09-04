@@ -1,5 +1,5 @@
 ## 🤍Oi! Eu sou a Jheniffer, Desenvolvedora Júnior.
-- Tenho 18 anos e estou estudando para área de **Back End e Data.**
+- Tenho 19 anos e estou cursando **Sistemas de Informação na UNOESC.**
 - Minhas **experiências** envolveram Banco de Dados SQL (MySQL e OracleDatabase) e conexões com PHP!
 
 ### 📖Conhecimento
