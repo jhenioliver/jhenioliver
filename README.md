@@ -19,5 +19,6 @@
 ### ✉️Conecte-se comigo!
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9f4bff)](https://www.linkedin.com/in/jheniffer-de-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=mainwp&logoColor=9f4bff)](https://www.linkedin.com/in/jheniffer-de-oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9f4bff)](mailto:jhenifferoliveirafoschera@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000?style=for-the-badge&logo=keeweb&logoColor=9f4bff)](./Currículo.pdf)
